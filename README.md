@@ -1,5 +1,7 @@
 # MyLibraryClient
 
+В TextView на главной форме приложения печатается текст из объекта, взятого из библиотеки.
+
 Библиотека
 
     implementation 'ntk.testlib:testlib-release:1.0'
